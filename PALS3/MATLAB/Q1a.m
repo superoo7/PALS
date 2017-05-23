@@ -1,6 +1,6 @@
 %Q1a
 
 birthYear = input('Please enter your birth year: ');
-ageInInteger = 2017 - birthYear;
-age=num2str(ageInInteger);
+ageInDouble = 2017 - birthYear;
+age = num2str(ageInDouble);
 disp(['Your age is ', age])

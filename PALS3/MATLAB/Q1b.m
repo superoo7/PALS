@@ -1,6 +1,8 @@
+%Q1b
+
 while (birthYear ~= 0)	% when Y does not equal to zero
     birthYear = input('Please enter your birth year: ');
-    ageInInteger = 2017 - birthYear;
-    age = num2str(ageInInteger);
+    ageInDouble = 2017 - birthYear;
+    age = num2str(ageInDouble);
     disp(['Your age is ', age])
 end
