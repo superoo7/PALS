@@ -2,9 +2,12 @@
 ## PALS 3
 
 ### Question 1
-Develop a Matlab script that is able to 
+Develop a Matlab script that is able to
+ 
 a.	display the age of a person when he/she enters his/her birth year.
+
 b.	continuously asks the user to enter a year until the user enters a zero value.
+
 Given the following command
 `Umur = CountAge(year)`
 develop a Matlab function that when the above command was made, the variable Umur will obtain the age value calculated by the function CountAge
