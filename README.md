@@ -11,6 +11,6 @@ by: [Lai Weng Han](http://github.com/superoo7)
 <img src="./Introduction/005.jpg" width="400%" height="225%" />
 
 ## PALS Questions ans Answers
-
+* [PALS1](/PALS1/README.pdf)
 * [PALS2](/PALS2)
 * [PALS3](/PALS3)
