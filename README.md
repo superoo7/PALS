@@ -12,4 +12,5 @@ by: [Lai Weng Han](http://github.com/superoo7)
 
 ## PALS Questions ans Answers
 
+* [PALS2](/PALS2)
 * [PALS3](/PALS3)
