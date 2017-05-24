@@ -19,3 +19,15 @@ by: [Lai Weng Han](http://github.com/superoo7)
 ![Download from github](/Introduction/download.png)
 
 [Link](https://github.com/superoo7/PALS/archive/master.zip)
+
+## Some advanced stuff
+To increase performance, can simply run MATLAB in Terminal with 
+__On Unix (MACOS)__
+using bash, in `.bash_profile` add:
+
+ `export PATH=/Applications/MATLAB_R2016b.app/bin:$PATH`
+
+then can start matlab with no gui: `matlab -nodesktop`
+
+run a certain script: `matlab -nojvm < scriptname.m`
+
