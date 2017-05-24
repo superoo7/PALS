@@ -1,6 +1,9 @@
 # Computing Applications for Engineers
 ## PALS 2
 
+### Answer using hand calculation
+[Calculation](/PALS2_Solution.pdf)
+
 ### Question 1
 Given the data
 
@@ -10,7 +13,9 @@ Given the data
 
 
 Calculate f(4) using 
+
 (i)	Newton’s Interpolating Polynomials of order 1 & 2. 
+
 (ii)	Lagrange Polynomials of the 1st and 2nd order
 
 ### Question 2
@@ -21,6 +26,9 @@ The following data defines the sea-level concentration of dissolved oxygen for f
 | o, mg/L 	| 14.621 	| 11.843 	| 9.870 	| 8.418 	| 7.305 	| 6.413 	|
 
 Use MATLAB to find the sea-level concentration of dissolved oxygen for fresh water at the temperature of 27oC using
+
 (i)	Linear splines
+
 (ii)	Quadratic splines
+
 (Note: The exact result is 7.986 mg/L)
