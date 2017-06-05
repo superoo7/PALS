@@ -14,6 +14,7 @@ by: [Lai Weng Han](http://github.com/superoo7)
 * [PALS1](/PALS1)
 * [PALS2](/PALS2)
 * [PALS3](/PALS3)
+* [PALS4](/PALS4)
 
 ## To download
 ![Download from github](/Introduction/download.png)
