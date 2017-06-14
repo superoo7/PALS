@@ -7,11 +7,13 @@ Q1
 
 [ans](https://github.com/superoo7/PALS/blob/master/PALS5/ans/01.c)
 
-![outputQ1](/ans/01.png)
+![outputQ1](/PALS5/ans/01.png)
 
 
 Q2
 
 [ans](https://github.com/superoo7/PALS/blob/master/PALS5/ans/02.c)
 
-![outputQ2](/ans/02.png)
+![outputQ2](/PALS5/ans/02.png)
+
+Q3
