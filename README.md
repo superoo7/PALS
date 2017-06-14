@@ -18,9 +18,18 @@ by: [Lai Weng Han](http://github.com/superoo7)
 * [PALS5](/PALS5)
 
 ## To download
+**Method 1: Download**
+
 ![Download from github](/Introduction/download.png)
 
 [Link](https://github.com/superoo7/PALS/archive/master.zip)
+
+**Method 2: Git Clone**
+`mkdir` and `cd` into appropriate folder
+
+Then, clone this repo
+
+`git clone https://github.com/superoo7/PALS.git`
 
 ## Some advanced stuff
 ### MATLAB
