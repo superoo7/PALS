@@ -32,4 +32,4 @@ Develop a Matlab script that changes the (first & last) (row & column) of any si
 
 ![Q4](Q4.png)
 
-__Answer__: [Q4method1](/PALS3/MATLAB/Q4method1.m), [Q4method2](/MATLAB/Q4method2.m)
+__Answer__: [Q4method1](/PALS3/MATLAB/Q4method1.m), [Q4method2](/PALS3/MATLAB/Q4method2.m)
