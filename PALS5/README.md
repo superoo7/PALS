@@ -17,3 +17,7 @@ Q2
 ![outputQ2](/PALS5/ans/02.png)
 
 Q3
+
+[ans](https://github.com/superoo7/PALS/blob/master/PALS5/ans/03.c)
+
+![outputQ2](/PALS5/ans/03.png)
