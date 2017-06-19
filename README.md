@@ -2,6 +2,14 @@
 
 by: [Lai Weng Han](http://github.com/superoo7)
 
+## PALS Questions ans Answers
+* [PALS1](/PALS1)
+* [PALS2](/PALS2)
+* [PALS3](/PALS3)
+* [PALS4](/PALS4)
+* [PALS5](/PALS5)
+* [PALS6](/PALS6)
+
 ## Introduction
 
 <img src="./Introduction/001.jpg" width="400%" height="225%" />
@@ -9,13 +17,6 @@ by: [Lai Weng Han](http://github.com/superoo7)
 <img src="./Introduction/003.jpg" width="400%" height="225%" />
 <img src="./Introduction/004.jpg" width="400%" height="225%" />
 <img src="./Introduction/005.jpg" width="400%" height="225%" />
-
-## PALS Questions ans Answers
-* [PALS1](/PALS1)
-* [PALS2](/PALS2)
-* [PALS3](/PALS3)
-* [PALS4](/PALS4)
-* [PALS5](/PALS5)
 
 ## To download
 **Method 1: Download**
@@ -45,6 +46,8 @@ run a certain script: `matlab -nojvm < scriptname.m`
 
 ### C
 **Note: GCC is for C programming**
+
+[Install GCC in Atom text editor](https://atom.io/packages/gpp-compiler)
 
 In case you don't like using IDE for learning, I use GCC for doing this.
 
